@@ -1,7 +1,7 @@
 #ffLatinize
 >Add-on for Firefox.
 
-Add-on for convrting Russian and accents (diacritics) from selected string  
+Add-on for converting Russian and accents (diacritics) from selected string  
 to Latin string and inserts it into the clipboard.
 
 For example:
